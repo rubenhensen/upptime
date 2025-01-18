@@ -6,7 +6,7 @@ sites:
   - name: Scouting MBG
     url: https://scoutingmbg.nl/
   - name: Scouting MBG Fotos
-    url: https://foto.scoutingmbg.nl/
+    url: https://foto.scoutingmbg.nl/_app
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
