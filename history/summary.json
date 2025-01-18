@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1627,
-    "timeDay": 1627,
+    "timeDay": 1702,
     "timeWeek": 1627,
     "timeMonth": 1627,
     "timeYear": 1627,
@@ -22,20 +22,19 @@
     "url": "https://foto.scoutingmbg.nl/_app",
     "icon": "https://icons.duckduckgo.com/ip3/foto.scoutingmbg.nl.ico",
     "slug": "scouting-mbg-fotos",
-    "status": "up",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1497,
-    "timeDay": 1497,
+    "timeDay": 1440,
     "timeWeek": 1497,
     "timeMonth": 1497,
     "timeYear": 1497,
     "dailyMinutesDown": {
-      "2025-01-18": 664,
-      "2025-01-17": 348
+      "2025-01-18": 0
     }
   }
 ]
