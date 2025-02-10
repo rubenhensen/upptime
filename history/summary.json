@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1700,
-    "timeDay": 1773,
-    "timeWeek": 1834,
-    "timeMonth": 1700,
-    "timeYear": 1700,
+    "time": 1698,
+    "timeDay": 1658,
+    "timeWeek": 1826,
+    "timeMonth": 1698,
+    "timeYear": 1698,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/foto.scoutingmbg.nl.ico",
     "slug": "scouting-mbg-fotos",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.32%",
+    "uptimeDay": "84.27%",
+    "uptimeWeek": "97.75%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 1079,
-    "timeDay": 878,
-    "timeWeek": 995,
+    "timeDay": 0,
+    "timeWeek": 1094,
     "timeMonth": 1079,
     "timeYear": 1079,
     "dailyMinutesDown": {
-      "2025-02-09": 0
+      "2025-02-10": 77,
+      "2025-02-09": 149
     }
   }
 ]
