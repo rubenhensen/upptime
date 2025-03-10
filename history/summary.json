@@ -4,7 +4,7 @@
     "url": "https://scoutingmbg.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/scoutingmbg.nl.ico",
     "slug": "scouting-mbg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1497,
     "timeYear": 1590,
     "dailyMinutesDown": {
+      "2025-03-10": 0,
       "2025-02-26": 55
     }
   },
@@ -25,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/foto.scoutingmbg.nl.ico",
     "slug": "scouting-mbg-fotos",
     "status": "up",
-    "uptime": "98.36%",
+    "uptime": "98.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.73%",
-    "uptimeYear": "98.36%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.37%",
     "time": 874,
     "timeDay": 469,
     "timeWeek": 660,
-    "timeMonth": 712,
+    "timeMonth": 714,
     "timeYear": 874,
     "dailyMinutesDown": {
       "2025-02-26": 34,
