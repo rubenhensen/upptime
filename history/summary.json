@@ -27,7 +27,7 @@
     "url": "https://foto.scoutingmbg.nl/_app",
     "icon": "https://icons.duckduckgo.com/ip3/foto.scoutingmbg.nl.ico",
     "slug": "scouting-mbg-fotos",
-    "status": "up",
+    "status": "down",
     "uptime": "98.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +39,7 @@
     "timeMonth": 911,
     "timeYear": 942,
     "dailyMinutesDown": {
+      "2025-03-20": 0,
       "2025-02-26": 34,
       "2025-02-12": 110,
       "2025-02-10": 916,
