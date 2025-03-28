@@ -1,7 +1,7 @@
 url: https://scoutingmbg.nl/
-status: up
-code: 200
-responseTime: 1147
-lastUpdated: 2025-03-28T15:47:22.632Z
+status: down
+code: 503
+responseTime: 410
+lastUpdated: 2025-03-28T15:59:37.347Z
 startTime: 2025-01-17T18:12:01.639Z
 generator: Upptime <https://github.com/upptime/upptime>
