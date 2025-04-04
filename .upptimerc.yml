@@ -7,6 +7,8 @@ sites:
     url: https://scoutingmbg.nl/
   - name: Scouting MBG Fotos
     url: https://foto.scoutingmbg.nl/_app
+  - name: Mist Phocas
+    url: https://mist.hensen.io/
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
