@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "97.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.03%",
+    "uptimeWeek": "82.11%",
     "uptimeMonth": "94.28%",
     "uptimeYear": "97.68%",
-    "time": 1248,
-    "timeDay": 1169,
-    "timeWeek": 984,
-    "timeMonth": 1063,
-    "timeYear": 1248,
+    "time": 1249,
+    "timeDay": 1208,
+    "timeWeek": 975,
+    "timeMonth": 1067,
+    "timeYear": 1249,
     "dailyMinutesDown": {
       "2025-04-03": 106,
       "2025-03-29": 1149,
@@ -37,37 +37,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.89%",
-    "time": 876,
-    "timeDay": 645,
+    "time": 873,
+    "timeDay": 640,
     "timeWeek": 617,
-    "timeMonth": 844,
-    "timeYear": 876,
+    "timeMonth": 838,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2025-03-20": 16,
       "2025-02-26": 34,
       "2025-02-12": 110,
       "2025-02-10": 916,
       "2025-02-09": 149
-    }
-  },
-  {
-    "name": "Mist Phocas",
-    "url": "https://mist.hensen.io/",
-    "icon": "https://icons.duckduckgo.com/ip3/mist.hensen.io.ico",
-    "slug": "mist-phocas",
-    "status": "down",
-    "uptime": "43.56%",
-    "uptimeDay": "43.56%",
-    "uptimeWeek": "43.56%",
-    "uptimeMonth": "43.56%",
-    "uptimeYear": "43.56%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-04-04": 2
     }
   }
 ]
