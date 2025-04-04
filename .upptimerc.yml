@@ -7,9 +7,9 @@ sites:
     url: https://scoutingmbg.nl/
   - name: Scouting MBG Fotos
     url: https://foto.scoutingmbg.nl/_app
-  - name: Mist Phocas
-    url: https://mist.hensen.io/
-    check: "tcp-ping"
+  # - name: Mist Phocas
+  #   url: https://mist.hensen.io/
+  #   check: "tcp-ping"
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
