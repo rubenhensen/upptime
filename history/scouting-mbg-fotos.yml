@@ -1,7 +1,7 @@
 url: https://foto.scoutingmbg.nl/_app
-status: up
-code: 200
-responseTime: 958
-lastUpdated: 2025-10-21T05:44:15.810Z
+status: down
+code: 503
+responseTime: 920
+lastUpdated: 2025-10-21T05:49:44.073Z
 startTime: 2025-01-17T18:12:03.662Z
 generator: Upptime <https://github.com/upptime/upptime>
