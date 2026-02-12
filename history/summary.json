@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/scoutingmbg.nl.ico",
     "slug": "scouting-mbg",
     "status": "up",
-    "uptime": "98.88%",
+    "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.81%",
     "uptimeYear": "98.81%",
     "time": 1501,
-    "timeDay": 1806,
-    "timeWeek": 1921,
-    "timeMonth": 2551,
+    "timeDay": 1574,
+    "timeWeek": 1906,
+    "timeMonth": 2548,
     "timeYear": 1491,
     "dailyMinutesDown": {
       "2026-02-03": 611,
@@ -52,15 +52,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/foto.scoutingmbg.nl.ico",
     "slug": "scouting-mbg-fotos",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.94%",
     "uptimeYear": "99.33%",
-    "time": 797,
-    "timeDay": 501,
-    "timeWeek": 1349,
-    "timeMonth": 865,
+    "time": 796,
+    "timeDay": 769,
+    "timeWeek": 1377,
+    "timeMonth": 868,
     "timeYear": 780,
     "dailyMinutesDown": {
       "2026-01-21": 902,
@@ -76,8 +76,7 @@
       "2025-06-12": 52,
       "2025-06-11": 83,
       "2025-03-20": 16,
-      "2025-02-26": 34,
-      "2025-02-12": 110
+      "2025-02-26": 34
     }
   }
 ]
